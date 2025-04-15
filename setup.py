@@ -21,6 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'firstwalk = lab3.firstwalk:main',
+            'exercise1 = lab3.exercise1:main',
+            'exercise2 = lab3.exercise2:main',
         ],
     },
 )
